@@ -1,5 +1,5 @@
 ---
-title: "STBDA22"
+title: "Special Topics in Big Data Analysis(2022)"
 listing:
   contents: posts
   sort: 
@@ -14,3 +14,6 @@ title-block-banner: true
 ---
 
 
+- guebin Choi, Professor of Statistics, Chonbuk National University
+
+- [github](https://guebin.github.io/STBDA2022/)
